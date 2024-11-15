@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211248812283",
+    "project_id": "dtc-firebase",
+    "storage_bucket": "dtc-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211248812283:android:bb0927141b38bcebffe05e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuNpMPVX5eEa6LRneZKUTc2AG2ATKSX_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
